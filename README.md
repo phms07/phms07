@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Pedro Henrique. Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🔭 Sou apaixonado por tecnologia e programação.
-- 😄 Pronouns: he/his
+- Sou apaixonado por tecnologia e programação.
+- Pronouns: he/his
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
