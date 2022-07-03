@@ -2,7 +2,7 @@
 
 ### Who I am?
 
-➜ My name is Pedro Henrique and I'm a Systems Analysis and Development Student.<br>
+➜ My name is Pedro Henrique Mequelim da Silva and I'm a Systems Analysis and Development Student.<br>
 ➜ I am passionate about technology and programming.<br>
 ➜ Since childhood, I have been very comfortable with technologies and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have great communication, resilience and ease in working in a group. I have initiative in solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences. Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option.<br>
 ➜ Knowledge:
@@ -13,7 +13,7 @@
    </ul>
 
 ### Quem sou?  
-➜ Meu nome é Pedro Henrique e sou estudante de Análise e Desenvolvimento de Sistemas.<br>
+➜ Meu nome é Pedro Henrique Mequelim da Silva e sou estudante de Análise e Desenvolvimento de Sistemas.<br>
 ➜ Sou apaoixonado por tecnologia e programação.<br>
 ➜ Desde a infância, eu tenho muita facilidade com tecnologias e, hoje, eu sei que escolhi a área com a qual me identifico e tenho grande possibilidade de crescimento profissional. Tenho uma ótima comunicação, resiliência e facilidade em trabalhar em grupo. Possuo iniciativa em resolver problemas/situações adversas, sempre me adaptando muito bem a todas as situações, e muita vontade de adquirir experiências novas. Destaca-se, também, a resolução de problemas por meio da comunicação e compreensão da situação, buscando sempre a melhor opção.<br>
 ➜ Conhecimentos:
@@ -50,4 +50,3 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
- 
