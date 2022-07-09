@@ -5,7 +5,7 @@
 ➜ My name is Pedro Henrique Mequelim da Silva and I'm a Systems Analysis and Development Student.<br>
 ➜ I am passionate about technology and programming.<br>
 ➜ Since childhood, I have been very comfortable with technologies and, today, I know that I chose the area with which I identify and I have great possibilities for professional growth. I have great communication, resilience and ease in working in a group. I have initiative in solving problems/adverse situations, always adapting very well to all situations, and a great desire to acquire new experiences. Problem solving through communication and understanding of the situation is also highlighted, always looking for the best option.<br>
-➜ Knowledge:
+➜ Knowledges:
    <ul>
      <li>Technologies: HTML, CSS, JavaScript, PHP, C, MySQL;</li>
      <li>Frameworks: Bootstrap (CSS), Materialize (CSS);</li>
